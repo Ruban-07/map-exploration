@@ -1,0 +1,14 @@
+.app-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/* Ensure map container fills the screen */
+#map-container {
+  width: 100%;
+  height: 100%;
+}
